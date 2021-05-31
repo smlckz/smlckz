@@ -7,4 +7,4 @@ I’m currently learning C programming and hope to learn some more languages.
 I'm on
 
 - Mastodon at [@smlckz@c.im](https://c.im/@smlckz)
-- freenode as `smlckz`
+- Libera.Chat as `smlckz`
